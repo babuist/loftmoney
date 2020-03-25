@@ -2,7 +2,7 @@
     <string name="app_name">Loftmoney</string>
     <string name="hello_title">This is first text in my life</string>
     <string name="nextTitle">Next activity</string>
-    <string name="editText_name_hint">Название</string>
-    <string name="editText_price_hint">Цена</string>
-    <string name="addButtonTitle">Добавить</string>
+    <string name="editText_name_hint">Title</string>
+    <string name="editText_price_hint">Prise</string>
+    <string name="addButtonTitle">ADD</string>
 </resources>
