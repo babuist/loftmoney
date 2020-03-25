@@ -13,7 +13,8 @@
         android:layout_gravity="center"
         android:layout_marginTop="15dp"
         android:text="@string/nextTitle"
-        android:textColor="@color/beatifulGreen"
-        android:textSize="@dimen/headerTextSize" />
+        android:textColor="@color/colorButton"
+        android:textSize="14sp"
+        android:background="@color/colorTitle"/>
 
 </FrameLayout>
