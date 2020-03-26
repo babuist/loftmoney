@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ЛофтДеньгип</string>
+    <string name="app_name">ЛофтДеньги</string>
     <string name="hello_title">Это первый текст в моей жизни</string>
     <string name="nextTitle">Следующий экран</string>
     <string name="editText_name_hint">Название</string>
