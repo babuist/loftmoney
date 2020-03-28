@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="headerTextSize">16sp</dimen>
+    <dimen name="divider_size">1dp</dimen>
+    <dimen name="primary_tex_size">20sp</dimen>
 </resources>

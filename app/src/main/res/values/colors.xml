@@ -6,4 +6,7 @@
     <color name="beatifulGreen">#294273</color>
     <color name="colorTitle">#dbdbdb</color>
     <color name="colorButton">#685a8a</color>
+    <color name="light_primary_text_color">#666664</color>
+    <color name="light_accent_tex_color">#4a90e2</color>
+    <color name="to_give">#ffc107</color>
 </resources>
