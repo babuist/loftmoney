@@ -37,7 +37,8 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="@dimen/divider_size"
-        android:layout_gravity="bottom" />
+        android:layout_gravity="bottom"
+        android:background="@color/divider_color"/>
 
 
 </LinearLayout>
